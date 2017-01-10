@@ -1,2 +1,2 @@
 # adaptation_proceduralization
-Results and analysis for adaptation proceduralization study.
+Data and analysis code for adaptation proceduralization study.
