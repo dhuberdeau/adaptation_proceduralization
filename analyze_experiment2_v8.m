@@ -3,7 +3,7 @@ stats_master_list_2 = {};
 
 %% Load data saved from manual trial exclusions
 
-load('data_E1_ptFix_2TH_2cm_vManRev_fixed.mat')
+load('data_E2_ptFix_2TH_2cm_vManRev_fixed.mat')
 
 subject_exclusions = [7 9 17]; %bc >half of short-PT trials are faulty
 all_subs = 1:size(category_data,2);
